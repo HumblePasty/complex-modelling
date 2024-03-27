@@ -3,6 +3,12 @@
 > Author: Haolin Li (haolinli@umich.edu)
 >
 > Last Updated: 03/27/2024
+>
+> Course Website: https://epimath.org/cscs-530-materials/
+>
+> Keywords: ABM, Cellular Automaton (CA), Network, Sensitivity Analysis, MCMC
+
+
 
 Course repo for CMPLXSYS 530 - Computational Modelling of Complex Systems, University of Michigan
 
@@ -24,8 +30,6 @@ Click [Here](https://github.com/HumblePasty/complex-modelling/tree/master/Labs/2
 
 <img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/ant100samples.png" style="zoom:50%;" />
 
-
-
 ### 3 Dynamics on and of Networks
 
 Click [Here](https://github.com/HumblePasty/complex-modelling/tree/master/Labs/3%20Dynamics%20on%20and%20of%20Networks) to redirect
@@ -38,8 +42,14 @@ Click [Here](https://github.com/HumblePasty/complex-modelling/tree/master/Labs/3
 
 
 
+
+
 ## Project
 
 ### Proposal
+
+TBD
+
+### Submission
 
 TBD
