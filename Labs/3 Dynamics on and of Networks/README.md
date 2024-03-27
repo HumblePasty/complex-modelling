@@ -29,10 +29,9 @@ $$
 <k> = p_e(N-1)
 $$
 
-
 ### Problem 1B
 
-<img src="./README.assets/Problem1B.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem1B.png" style="zoom:50%;" />
 
 The mean field prediction model stays the same when beta changes.
 
@@ -42,13 +41,13 @@ But as beta increases, the simulation result by the WS network gets closer to th
 
 ### Problem 1C
 
-<img src="./README.assets/Problem1C.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem1C.png" style="zoom:50%;" />
 
 
 
 ### Problem 1D
 
-<img src="./README.assets/Problem1D.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem1D.png" style="zoom:50%;" />
 
 When beta is low, the mean field model based on Erdos-Renyi network cannot represent the dynamics. As shown in the first subplot, the simulation result (black dotted line) differs a lot from the 5%-95% quantile belt.
 
@@ -60,7 +59,7 @@ Thus for small world networks with smaller beta values, using the mean field mod
 
 ### Problem 1E
 
-<img src="./README.assets/Problem1E.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem1E.png" style="zoom:50%;" />
 
 We can observe from the two plots that the relative positions of the mean field prediction line (black dotted line) and the simulation belt (purple) for Erdos-Renyi network is highly similar to that of the Watts-Strogatz network when beta is 1.
 
@@ -339,27 +338,27 @@ plt.show()
 
 Simulation with no failure node:
 
-<img src="./README.assets/Problem2Aa.png" style="zoom: 50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Aa.png" style="zoom: 50%;" />
 
 Final network status:
 
-<img src="./README.assets/Problem2Ab.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Ab.png" style="zoom:50%;" />
 
 Simulation with one failure node:
 
-<img src="./README.assets/Problem2Ac-1709826472200-4.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Ac-1709826472200-4.png" style="zoom:50%;" />
 
 Final network status:
 
-<img src="./README.assets/Problem2Ad.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Ad.png" style="zoom:50%;" />
 
 
 
 ### Problem 2B
 
-<img src="./README.assets/Problem2Ba.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Ba.png" style="zoom:50%;" />
 
-<img src="./README.assets/Problem2Bb.png" style="zoom:50%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Bb.png" style="zoom:50%;" />
 
 Comparing the three situations from the first row, we can observe that as the load ranges closer from the maximum capacity, the failure size and frequency of the stabilized stage is increasing. 
 
@@ -369,13 +368,13 @@ Comparing the three situations from the first row, we can observe that as the lo
 
 Power Grid Network, Spectral Layout
 
-<img src="./README.assets/Problem2Ca.png" style="zoom: 67%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Ca.png" style="zoom: 67%;" />
 
-<img src="./README.assets/Problem2Cb.png" style="zoom: 67%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Cb.png" style="zoom: 67%;" />
 
 - It would be hard to directly compare the network structure with different layouts. Switching the layout to spectral for a generated network:
 
-  <img src="./README.assets/Problem2Cc.png" style="zoom:50%;" />
+  <img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Cc.png" style="zoom:50%;" />
 
 - we can notice that for the real world network, there seems to be less edges
 
@@ -395,7 +394,7 @@ percentages of the fail nodes:
 
 Histogram:
 
-<img src="./README.assets/Problem2Da.png" style="zoom:67%;" />
+<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/Problem2Da.png" style="zoom:67%;" />
 
 We can see from the plot that:
 
